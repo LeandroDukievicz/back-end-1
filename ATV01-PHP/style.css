@@ -14,8 +14,12 @@ h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1.2rem;
     color:rgb(0, 0, 0);
-    text-align: center;
 }
+h4{
+    margin-top: 50px;
+}
+
+
 
 #content{
     width: 98%;
@@ -30,6 +34,7 @@ h2{
 
 #alcool,#gasoline,#container-comb1,#container-comb2{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-content: center;
     align-items: center;
@@ -58,10 +63,10 @@ h2{
     cursor: pointer;
 }
 
-#container-comb1:hover,#container-comb1:hover{
+#container-comb1:hover{
     width: 93%;
     height: auto;
-    border-bottom: 3px  solid rgb(166, 159, 255);
+    border-bottom: 3px  solid rgb(15, 0, 218);
     transition: 1s;
 }
 
@@ -73,6 +78,10 @@ h2{
 }
 
 footer{
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
     display: flex;
     justify-content: center;
     margin-top: 5%;
