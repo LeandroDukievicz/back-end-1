@@ -11,25 +11,42 @@
 </head>
 
 <body>
-
-    <section id="content">
-
-        <section id="alcool">
-            <div id="container-comb1">
-                <h2>Álcool</h2>
-            </div>
-        </section>
+   
+    <?php
 
 
-        <section id="gasoline">
-            <div id="container-comb2">
-                <h2>Gasolina</h2>
-            </div>
-        </section>
 
-    </section>
+    ?>
+
 
 </body>
+
+<main>
+    <section id="content">
+            <section id="alcool">
+                <div id="container-comb1">
+                    <h2>Álcool: </h2>
+                        <div>  
+                            </BR></BR>
+                            <h4><strong>Olá Juliana Tudo bem? Seja bem vinda !!!</strong></h4> <br>
+                        </div>
+                </div>
+                
+            </section>
+                <section id="gasoline">
+                    <div id="container-comb2">
+                        <h2>Gasolina :</h2>  
+                            <div>  
+                                </BR></BR>
+                                <h4><strong>Olá Juliana Tudo bem? Seja bem vinda !!!</strong></h4> <br>
+                            </div>
+                    </div>
+            </section>
+        </section>
+
+
+</main>
+
 
 <footer>
     <h5>Leandro Dukiévicz R.A 21144207-5 </h5>
