@@ -53,7 +53,8 @@
 
 - [ ] - Implementação do código fonte.
 - [ ] - Correção, testes, refatoração. 
-- [ ] - Tratar e testar Resposividade.
+- [ ] - Acessibilidade (descrição das imagens com a tag alt )
+- [ ] - Tratar e testar Responsividade. 
 - [ ] - Deploy e Hospedagem.<br>
 - [ ] - Aguardando Resultado Final !!!<br/><br/><br/>
 
