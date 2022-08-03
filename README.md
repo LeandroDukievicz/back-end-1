@@ -54,7 +54,12 @@
 - [ ] - Produção do código.
 - [ ] - Correção, testes, refatoração. 
 - [ ] - Tratar e testar Resposividade.
-- [ ] - Hospedagem.
+- [ ] - Hospedagem.<br/><br/><br/>
+
+
+
+###### Informações adicionais sobre o projeto:
+
 
 
 
