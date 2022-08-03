@@ -56,7 +56,7 @@
 - [ ] - Acessibilidade (descrição das imagens com a tag alt )
 - [ ] - Tratar e testar Responsividade. 
 - [ ] - Deploy e Hospedagem.<br>
-- [ ] - Aguardando Resultado Final !!!<br/><br/><br/>
+- [ ] - Aguardando Resultado Final do Desafio !!!<br/><br/><br/>
 
 
 
