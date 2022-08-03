@@ -44,17 +44,17 @@
 ### Etapas do Projeto:
 
 - [x] - Planejamento ( Levantamento da RN - definição de layout - prototipação ) .
-- [x] - Pesquisa e tratamento de imagens.
+- [x] - Pesquisa de imagens.
 - [x] - Criação do Logotipo 
 
 <div align ="center">
 <img height="80"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/imagens-e-gifs-de-loading-41.gif"/>
 </div>  
 
-- [ ] - Produção do código.
+- [ ] - implementação do código fonte.
 - [ ] - Correção, testes, refatoração. 
 - [ ] - Tratar e testar Resposividade.
-- [ ] - Hospedagem.<br/><br/><br/>
+- [ ] - Deploy e Hospedagem.<br/><br/><br/>
 
 
 
