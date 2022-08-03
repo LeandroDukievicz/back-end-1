@@ -32,7 +32,7 @@
  
 ### Sobre o Projeto:   
      
-##### Projeto desenvolvido para simular o cotidiano da vida profissional, criado um portifólio para ajudar uma senhora a divulgar seu novo trabalho, podendo assim ter um vínculo mais próximo e expandir seu empreendimento para a internet e redes sociais. </br></br></br> Foi usado neste projeto, PHP HTML e CSS, utlizando o PHP para deixar o site dinâmico e podendo reaproveitar muitos trechos de código, usando array muldimensional para fazer o manuseio das fotos e descrição dos produtos. A intenção é deixar este projeto o mais próximo da realidade. Porém aqui ainda não haverá interação com banco de dados. <br><br>
+##### Projeto desenvolvido para simular o cotidiano da vida profissional de um Dev, criado um portifólio simples para ajudar uma senhora a divulgar seu novo trabalho, assim ela consegue ter um vínculo mais próximo e expandir seu empreendimento para a internet e redes sociais. </br></br></br> Usado neste projeto, PHP HTML e CSS, o PHP para deixar o site dinâmico e podendo reaproveitar muitos trechos de código, ainda no php manuseando e usando array muldimensional para as fotos e descrição dos produtos. A intenção é deixar este projeto o mais próximo da realidade e tentar utilizar as boas práticas na programação. Porém aqui ainda não haverá interação com banco de dados. <br><br>
 
 ### Etapas do Projeto:
 
