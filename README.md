@@ -51,10 +51,11 @@
 <img height="80"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/imagens-e-gifs-de-loading-41.gif"/>
 </div>  
 
-- [ ] - implementação do código fonte.
+- [ ] - Implementação do código fonte.
 - [ ] - Correção, testes, refatoração. 
 - [ ] - Tratar e testar Resposividade.
-- [ ] - Deploy e Hospedagem.<br/><br/><br/>
+- [ ] - Deploy e Hospedagem.<br>
+- [ ] - Aguardando Resultado Final !!!<br/><br/><br/>
 
 
 
