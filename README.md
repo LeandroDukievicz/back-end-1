@@ -66,6 +66,15 @@
 
 
 
+- [x] - [**Criação do Logo** - _Zarla_](https://www.zarla.com/logo-maker/99qxyvfc8h88f8xj9v4v)
+- [X] - [**Fonte** de Imagens _I_ - _Freepik_](https://br.freepik.com/)
+- [x] - [**Fonte** de Imagens _II_ - _Pinterest_](https://br.pinterest.com/)
+- [X] - [**Edição** e tratamento das Imagens - _Canva on line_](https://www.canva.com/)
+- [x] - [**Icones e Fontes** _Google Fonts_](https://fonts.google.com/about)
+- [x] - [**Indicação de Receitas** - _TudoGostoso_](https://www.tudogostoso.com.br/)
+- [x] - [**Indicação de Vídeos Culinários** - _Paola Carosella_](https://www.youtube.com/user/pcarosella) 
+
+
 
 
 
