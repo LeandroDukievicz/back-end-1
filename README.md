@@ -44,21 +44,27 @@
 ### Etapas do Projeto:
 
 - [x] - Planejamento ( Levantamento da RN - definição de layout - prototipação ) .
-- [x] - Pesquisa e tratamento de imagens.
+- [x] - Pesquisa de imagens.
 - [x] - Criação do Logotipo 
 
 <div align ="center">
 <img height="80"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/imagens-e-gifs-de-loading-41.gif"/>
 </div>  
 
-- [ ] - Produção do código.
+- [ ] - Implementação do código fonte.
 - [ ] - Correção, testes, refatoração. 
-- [ ] - Tratar e testar Resposividade.
-- [ ] - Hospedagem.<br/><br/><br/>
+- [ ] - Acessibilidade (descrição das imagens com a tag alt )
+- [ ] - Tratar e testar Responsividade. 
+- [ ] - Deploy e Hospedagem.<br>
+- [ ] - Aguardando Resultado Final do Desafio !!!<br/><br/><br/>
 
 
 
 ###### Informações adicionais sobre o projeto:
+
+###### Para este Projeto, pensando na questão de usabilidade e até para facilitar para a dona Dirce, coloquei um link direto para o whatsapp dela, assim ela consegue anotar os pedidos de uma maneira muito mais fácil e dependerá somente de um celular, agilizando o preparo para a entrega, talvez fazer isso com formulários e mandar pra ela não seja tão eficaz pra essa situação. Então dentro do site, a pessoa escolhe pelo cardápio disponível e entra em contato direto com ela pra fazer o pedido.<br><br>Fiz um estudo também na questão de qual paleta de cores usar, o que fica melhor e que tipo de paleta de cores combina mais com a proposta do site.
+
+
 
 
 
