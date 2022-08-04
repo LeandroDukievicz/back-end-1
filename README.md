@@ -44,7 +44,7 @@
 ### Etapas do Projeto:
 
 - [x] - Planejamento ( Levantamento da RN - definição de layout - prototipação ) .
-- [x] - Pesquisa de imagens.
+- [x] - Pesquisa de imagens/Criação de Banners e tratamento .
 - [x] - Criação do Logotipo 
 
 <div align ="center">
