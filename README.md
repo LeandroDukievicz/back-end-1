@@ -24,14 +24,14 @@
 
 <div align="center">
 
-<h4> Este Projeto está concorrendo ao Desafio Nacional Unicesumar. <br/>Clique no logo para saber mais ! </h4><br/>
+<h4> AVISO ! Este Projeto está concorrendo ao Desafio Nacional Unicesumar. <br/>Clique no logo para saber mais ! </h4><br/>
 <img height="80"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/gif-seta%20(1).gif"/>&ensp;&ensp;&ensp;<a href="https://www.sites.google.com/unicesumar.com.br/desafio-nacional" target="_blank"><img height="150"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/maxresdefault.jpg" target="_blank"></a><br/><br/><br/><br/>
      
-<h3 >Prova Prática Final - Projeto Mapa Back End Módulo I<br/>Pode conferir o projeto hospedado e navegar por ele clicando no logo aqui abaixo !!!</h3><br/>
+<h3 >Prova Prática Final - Projeto Mapa Back End Módulo I<br/>Pode conferir o projeto hospedado e navegar por ele clicando logo aqui abaixo !!!</h3><br/>
 
 
 <div align ="center">
-<img height="80"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/gif-seta%20(1).gif"/>&ensp;&ensp;&ensp;<a href="https://github.com/LeandroDukievicz/back-end-1/tree/main/MAPA%20BACK%20END%20I%20-%20SITE/assets" target="_blank"><img height="150"src="https://github.com/LeandroDukievicz/back-end-1/blob/main/MAPA%20BACK%20END%20I%20-%20SITE/assets/logodirce.jpg" target="_blank"></a>
+<img height="80"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/gif-seta%20(1).gif"/>&ensp;&ensp;&ensp;<a href="https://github.com/LeandroDukievicz/back-end-1/tree/main/MAPA%20BACK%20END%20I%20-%20SITE/assets" target="_blank"><img height="200"src="https://github.com/LeandroDukievicz/back-end-1/blob/main/MAPA%20BACK%20END%20I%20-%20SITE/img/Marmitaria%20Dona%20Dirce%20capa%2001%20(1).gif" target="_blank"></a>
 </div> 
 </div>
 
@@ -44,7 +44,7 @@
 ### Etapas do Projeto:
 
 - [x] - Planejamento ( Levantamento da RN - definição de layout - prototipação ) .
-- [x] - Pesquisa de imagens.
+- [x] - Pesquisa de imagens/Criação de Banners e tratamento .
 - [x] - Criação do Logotipo 
 
 <div align ="center">
