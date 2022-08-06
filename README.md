@@ -46,12 +46,12 @@
 - [x] - Planejamento ( Levantamento da RN - definição de layout - prototipação ) .
 - [x] - Pesquisa de imagens/Criação de Banners e tratamento .
 - [x] - Criação do Logotipo 
+- [x] - Implementação do código fonte.
 
 <div align ="center">
 <img height="80"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/imagens-e-gifs-de-loading-41.gif"/>
 </div>  
 
-- [ ] - Implementação do código fonte.
 - [ ] - Correção, testes, refatoração. 
 - [ ] - Acessibilidade (descrição das imagens com a tag alt )
 - [ ] - Tratar e testar Responsividade. 
