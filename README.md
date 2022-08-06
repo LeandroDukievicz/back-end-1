@@ -31,7 +31,7 @@
 
 
 <div align ="center">
-<img height="80"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/gif-seta%20(1).gif"/>&ensp;&ensp;&ensp;<a href="https://github.com/LeandroDukievicz/back-end-1/tree/main/MAPA%20BACK%20END%20I%20-%20SITE/assets" target="_blank"><img height="200"src="https://github.com/LeandroDukievicz/back-end-1/blob/main/MAPA%20BACK%20END%20I%20-%20SITE/img/Marmitaria%20Dona%20Dirce%20capa%2001%20(1).gif" target="_blank"></a>
+<img height="80"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/gif-seta%20(1).gif"/>&ensp;&ensp;&ensp;<a href="https://github.com/LeandroDukievicz/back-end-1/tree/main/MAPA%20BACK%20END%20I%20-%20SITE/assets" target="_blank"><img height="200"src="https://github.com/LeandroDukievicz/back-end-1/blob/main/MAPA%20BACK%20END%20I%20-%20SITE/assets/Marmitaria%20Dona%20Dirce%20capa%2001.gif" target="_blank"></a>
 </div> 
 </div>
 
