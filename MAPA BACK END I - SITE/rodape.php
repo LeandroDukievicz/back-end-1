@@ -1,3 +1,5 @@
+
+
 <section >
     <footer>
         <div class="rodape">
@@ -5,9 +7,9 @@
                 <img class="ico" src="assets/information-sign.ico" alt="">
                 <h4 style= "color:red">Quer Saber Mais ? </h4><br>
                 <p><strong>Nossas Páginas</strong></p><br>
-                <a class="a-footer" href="#">Home</a><br><br>
-                <a class="a-footer" href="">Conheça a Dona Dirce</a><br><br>
-                <a class="a-footer" href="">Dicas de Receitas</a><br><br>
+                <a class="a-footer" href="index.php">Home</a><br><br>
+                <a class="a-footer" href="sobre.php">Conheça a Dona Dirce</a><br><br>
+                <a class="a-footer" href="dicas.php">Dicas de Receitas</a><br><br>
                 <a class="a-footer" href="">Vídeos de Receitas</a><br><br>
                 <p ><strong>Links Úteis</strong></p><br>
                 <a class="a-footer" href="https://legalcloud.com.br/modelo-politica-privacidade/
@@ -35,6 +37,8 @@
                 <p><i>Atendimento para Retirada de Marmitas</i></p><br>
                 <p>Segunda à Sexta:  11:00 às 14:30</p><br>
                 <p>Sábados, Domingos e feriados: 11:00 às 15:30</p><br>
+                <img id="delivery" class="ico" src="assets/delivery.png" alt="">
+                <p>Entregas Grátis para Maringá e Sarandi</p>
             </div> 
         </div>
     </footer>

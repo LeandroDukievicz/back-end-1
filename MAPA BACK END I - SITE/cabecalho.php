@@ -9,20 +9,20 @@
                     <ul>
                         <a class="a-hover" href="index.php"><strong>&nbsp;&nbsp;Home&nbsp;&nbsp;</strong></a>  
                         <a class="a-hover" href="sobre.php">Conheça a Dona Dirce&nbsp;</a>
-                        <a class="a-hover" href="#">Dicas de Receitas&nbsp;</a> 
-                        <a class="a-hover" href="#">Vídeos de Receitas&nbsp;</a>
-                        <a class="a-hover" href="#">Contato&nbsp;</a>  
+                        <a class="a-hover" href="dicas.php">Dicas de Receitas&nbsp;</a> 
+                        <a class="a-hover" href="videos.php">Vídeos de Receitas&nbsp;</a>
+                        <a class="a-hover" href="">Contato&nbsp;</a>  
                         
                         &nbsp;&nbsp;&nbsp;&nbsp;
 
-                        <a href="#">
+                        <a href="https://www.instagram.com/" target="_blank">
                             <img id="instagram" src="assets/instagram.ico" alt="logotipo da rede social instagram, que consiste
                             apenas numa lente de camera fotográfica - icone todo na cor preta">
                             </a>
 
                         &nbsp;&nbsp;&nbsp;&nbsp;
 
-                        <a href="#">
+                        <a href="https://www.facebook.com/" target="_blank">
                             <img id="facebook" src="assets/facebook.ico" alt="">
                         </a>  
                     </ul>

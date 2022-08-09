@@ -1,6 +1,8 @@
 @import url(reset.css);
 @import url(footer.css);
 @import url(sobre.css);
+@import url(dicas.css);
+@import url(videos.css);
 
 body{
     width: 100%;
