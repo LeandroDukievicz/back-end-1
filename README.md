@@ -62,7 +62,9 @@
 
 ###### Informações adicionais sobre o projeto:
 
-###### Para este Projeto, pensando na questão de usabilidade e até para facilitar para a dona Dirce, coloquei um link direto para o whatsapp dela, assim ela consegue anotar os pedidos de uma maneira muito mais fácil e dependerá somente de um celular, agilizando o preparo para a entrega, talvez fazer isso com formulários e mandar pra ela não seja tão eficaz pra essa situação. Então dentro do site, a pessoa escolhe pelo cardápio disponível e entra em contato direto com ela pra fazer o pedido.<br><br>Fiz um estudo também na questão de qual paleta de cores usar, o que fica melhor e que tipo de paleta de cores combina mais com a proposta do site.
+###### Para este Projeto, pensando na questão de usabilidade e até para facilitar para a dona Dirce, coloquei um link direto para o whatsapp dela, assim ela consegue anotar os pedidos de uma maneira muito mais fácil e dependerá somente de um celular, agilizando o preparo para a entrega, talvez fazer isso com formulários e mandar pra ela não seja tão eficaz pra essa situação. Então dentro do site, a pessoa escolhe pelo cardápio disponível e entra em contato direto com ela pra fazer o pedido.<br><br>Fiz um estudo também na questão de qual paleta de cores usar, o que fica melhor e que tipo de paleta de cores combina mais com a proposta do site. <br> Fontes e ferramentas externas usadas no projeto.
+
+
 
 
 
