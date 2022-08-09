@@ -1,0 +1,29 @@
+main{
+    width: 100%;
+    height: auto;
+}
+
+.sobre{
+
+    width: 100%;
+    height: auto;
+    padding:30px;
+    
+    display:flex;
+    gap: 15px;
+    margin-top: 5px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  
+}
+
+.img-dirce{
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+    border: 2px outset #FFF;
+    border-radius: 15px;
+    box-shadow: 3px 3px 3px rgba(83, 83, 83, 0.5);
+}
+
