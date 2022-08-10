@@ -4,6 +4,7 @@
     padding: 10px;
     background:linear-gradient(to right, #ffffff, #c5c5c5,#ffffff);
     display: flex;
+    /* position: relative; */
     flex-direction: row;
     justify-content: center;
     align-items: center;
@@ -12,6 +13,7 @@
 }
 footer{
     display: flex;
+    position: relative;
     flex-direction: row;
     box-shadow: 3px 3px 3px rgba(83, 83, 83, 0.5);
 }

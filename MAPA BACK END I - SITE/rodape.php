@@ -10,13 +10,13 @@
                 <a class="a-footer" href="index.php">Home</a><br><br>
                 <a class="a-footer" href="sobre.php">Conheça a Dona Dirce</a><br><br>
                 <a class="a-footer" href="dicas.php">Dicas de Receitas</a><br><br>
-                <a class="a-footer" href="">Vídeos de Receitas</a><br><br>
+                <a class="a-footer" href="videos.php">Vídeos de Receitas</a><br><br>
                 <p ><strong>Links Úteis</strong></p><br>
                 <a class="a-footer" href="https://legalcloud.com.br/modelo-politica-privacidade/
-                #Modelo_de_Politica_de_Privacidade_da_Legalcloud_Copie_e_Cole">Politica de Privacidade</a><br><br>
+                #Modelo_de_Politica_de_Privacidade_da_Legalcloud_Copie_e_Cole" target="_blank">Politica de Privacidade</a><br><br>
                 <a class="a-footer" href="https://www.lafonte.com.br/pt-br/aviso_legal#:~:text=Estamos%20concedendo%20uma%20licen%C3%A7a%20n%C3%A3o,
-                uma%20organiza%C3%A7%C3%A3o%2C%20produto%20ou%20servi%C3%A7o.">Aviso Legal</a><br><br>
-                <a class="a-footer" href="https://diegocastro.adv.br/modelo-de-termos-de-uso-para-blogs-e-sites/">Termos de Uso</a>
+                uma%20organiza%C3%A7%C3%A3o%2C%20produto%20ou%20servi%C3%A7o."target="_blank">Aviso Legal</a><br><br>
+                <a class="a-footer" href="https://diegocastro.adv.br/modelo-de-termos-de-uso-para-blogs-e-sites/"target="_blank">Termos de Uso</a>
             </div> 
 
             <div >
