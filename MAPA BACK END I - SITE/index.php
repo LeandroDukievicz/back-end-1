@@ -10,7 +10,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="assets/cutlery.PNG" type="image/x-icon">
     <link rel="stylesheet" href="css/style.css">
-    <title>Marmitas da Dirce</title>
+    <link rel="stylesheet" href="css/button.css">
+    <title>HOME - Marmitas da Dirce</title>
 </head>
 
 <body>
@@ -19,15 +20,58 @@
         include ('galery.php');
     ?>
 
+    <section id="information">
+        <div id="info">
+
+           <div id="info1">
+                <img class="icons-info" src="assets/talher.png" alt=""><br>
+                
+                <p><strong><i>Almoços</i></strong></p><br><br>
+                <p class="p-info">A melhor refeição do seu dia é aqui na Marmitas da Dirce. 
+                   Atualizamos o cardápio, Confira e peça Já a sua Marmita !!!</p><br>
+                   <p class="p-info"><strong><i>Segunda à Sexta: 11:00 às 14:30</i></strong></p>
+                   <p class="p-info"><strong><i>Sáb,Dom e feriados 11:00 às 15:30</i></strong></p>
+                   
+           </div>
+
+           <div id="info2">
+                <img class="icons-info" src="assets/cardapio.png" alt=""><br>
+
+                <p><strong><i>Cardápio</i></strong></p><br>
+                <p class="p-info">Agora temos além da tradicional comida caseira da dona Dirce, 
+                                  marmitas fit saudáveis e um cardápio especial para os fins de semana,
+                                  clique no <strong>botão</strong> 
+                                  e faça o download do Menu ou peça agora pelo Site !</p><br>
+                <Button>
+                    <a href="">Download Menu
+                    <img src="assets/down.svg" alt="">
+                    </a>
+                </Button>                  
+           </div>
+
+           <div id="info3">
+                <img class="icons-info" src="assets/delivery.png" alt="">
+                <h5>
+                    Venha conferir 
+                </h5>
+           </div>
+        </div>
+    </section>
+
+
 
 <main>
-
-</main>
 
 
 <?php
     include('rodape.php');
 ?>
+
+
+
+</main>
+
+
 
 </body>
 
