@@ -69,7 +69,7 @@
 - [X] - [**Fonte** de Imagens _I_ - _Freepik_](https://br.freepik.com/)
 - [x] - [**Fonte** de Imagens _II_ - _Pinterest_](https://br.pinterest.com/)
 - [X] - [**Edição** e tratamento das Imagens - _Canva on line_](https://www.canva.com/)
-- [x] - [**Icones e Fontes - I** _Icons Cout_](https://iconscout.com/)&ensp;&ensp;&ensp;[II - _Flaticon_](https://www.flaticon.com/br/)&ensp;&ensp;&ensp;[III -_Google Fonts_](https://fonts.google.com/)
+- [x] - [**Icones e Fontes - I -** _Icons Cout_](https://iconscout.com/)&ensp;&ensp;&ensp;[II - _Flaticon_](https://www.flaticon.com/br/)&ensp;&ensp;&ensp;[III - _Google Fonts_](https://fonts.google.com/)
 - [x] - [**Indicação de Receitas** - _TudoGostoso_](https://www.tudogostoso.com.br/)
 - [x] - [**Indicação de Vídeos Culinários** - _Paola Carosella_](https://www.youtube.com/user/pcarosella) 
 
