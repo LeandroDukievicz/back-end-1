@@ -27,19 +27,11 @@
 <h4> AVISO ! Este Projeto está concorrendo ao Desafio Nacional Unicesumar. <br/>Clique no logo para saber mais ! </h4><br/>
 <img height="80"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/gif-seta%20(1).gif"/>&ensp;&ensp;&ensp;<a href="https://www.sites.google.com/unicesumar.com.br/desafio-nacional" target="_blank"><img height="150"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/maxresdefault.jpg" target="_blank"></a><br/><br/><br/><br/>
      
-<h3 >Prova Prática Final - Projeto Mapa Back End Módulo I<br/>Pode conferir o projeto hospedado e navegar por ele clicando logo aqui abaixo !!!</h3><br/>
+<h3 >Prova Prática Final - Projeto Mapa Back End Módulo I<br/>
 
 
-<div align ="center">
-<img height="80"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/gif-seta%20(1).gif"/>&ensp;&ensp;&ensp;<a href="https://github.com/LeandroDukievicz/back-end-1/tree/main/MAPA%20BACK%20END%20I%20-%20SITE/assets" target="_blank"><img height="200"src="https://github.com/LeandroDukievicz/back-end-1/blob/main/MAPA%20BACK%20END%20I%20-%20SITE/assets/Marmitaria%20Dona%20Dirce%20capa%2001.gif" target="_blank"></a>
-</div> 
-</div>
 
 #
- 
-### Sobre o Projeto:   
-     
-##### Projeto desenvolvido para simular o cotidiano da vida profissional de um Dev, criado um portifólio simples para ajudar uma senhora a divulgar seu novo trabalho, assim ela consegue ter um vínculo mais próximo e expandir seu empreendimento para a internet e redes sociais. </br></br></br> Usado neste projeto, PHP HTML e CSS, o PHP para deixar o site dinâmico e podendo reaproveitar muitos trechos de código, ainda no php manuseando e usando array muldimensional para as fotos e descrição dos produtos. A intenção é deixar este projeto o mais próximo da realidade e tentar utilizar as boas práticas na programação. Porém aqui ainda não haverá interação com banco de dados. <br><br>
 
 ### Etapas do Projeto:
 
@@ -55,14 +47,19 @@
 - [ ] - Correção, testes, refatoração. 
 - [ ] - Acessibilidade (descrição das imagens com a tag alt )
 - [ ] - Tratar e testar Responsividade. 
-- [ ] - Deploy e Hospedagem.<br>
 - [ ] - Aguardando Resultado Final do Desafio !!!<br/><br/><br/>
+ 
+### Sobre o Projeto:   
+     
+##### Projeto desenvolvido para simular o cotidiano da vida profissional de um Dev, criado um portifólio simples para ajudar uma senhora a divulgar seu novo trabalho, assim ela consegue ter um vínculo mais próximo e expandir seu empreendimento para a internet e redes sociais. </br></br></br> Usado neste projeto, PHP HTML e CSS, o PHP para deixar o site dinâmico e podendo reaproveitar muitos trechos de código, ainda no php manuseando e usando array muldimensional para as fotos e descrição dos produtos. A intenção é deixar este projeto o mais próximo da realidade e tentar utilizar as boas práticas na programação. Porém aqui ainda não haverá interação com banco de dados. <br><br>
 
 
 
-###### Informações adicionais sobre o projeto:
 
-###### Para este Projeto, pensando na questão de usabilidade e até para facilitar para a dona Dirce, coloquei um link direto para o whatsapp dela, assim ela consegue anotar os pedidos de uma maneira muito mais fácil e dependerá somente de um celular, agilizando o preparo para a entrega, talvez fazer isso com formulários e mandar pra ela não seja tão eficaz pra essa situação. Então dentro do site, a pessoa escolhe pelo cardápio disponível e entra em contato direto com ela pra fazer o pedido.<br><br>Fiz um estudo também na questão de qual paleta de cores usar, o que fica melhor e que tipo de paleta de cores combina mais com a proposta do site. <br> Fontes e ferramentas externas usadas no projeto.
+
+###### Fontes e Informações adicionais sobre o projeto:
+
+###### Para este Projeto, pensando na questão de usabilidade e até para facilitar para a dona Dirce, coloquei um link direto para o whatsapp dela, assim ela consegue anotar os pedidos de uma maneira muito mais fácil e dependerá somente de um celular, agilizando o preparo para a entrega, talvez fazer isso com formulários e mandar pra ela não seja tão eficaz pra essa situação. Então dentro do site, a pessoa escolhe pelo cardápio disponível e entra em contato direto com ela pra fazer o pedido.Fiz um estudo também na questão de qual paleta de cores usar, o que fica melhor e que tipo de paleta de cores combina mais com a proposta do site. <br><br><br> Fontes e ferramentas externas usadas no projeto.
 
 
 
