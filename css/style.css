@@ -225,7 +225,7 @@ nav{
 }
 
 #btn-cardapio{
-    width: 75%;
+    width: 80%;
     height: auto;
     display: flex;
     flex-direction: row;
@@ -233,6 +233,7 @@ nav{
     align-items: center;
     border: none;
     padding: 10px;
+    margin:5px;
     border: 2px outset #f4511e;
     background-color: #F4511E;
     border-radius: 15px;   

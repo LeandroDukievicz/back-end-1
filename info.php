@@ -27,7 +27,7 @@
                                   e faça o download do Menu ou peça agora pelo Site!</p><br><br>
                
                 <Button id="btn-cardapio" class="click">
-                    <a id="btn-c" href="https://github.com/LeandroDukievicz/back-end-1/raw/main/MAPA%20BACK%20END%20I%20-%20SITE/assets/menugeral.pdf"><strong>Download Menu</strong></a>
+                    <a id="btn-c" href="https://github.com/LeandroDukievicz/back-end-1/raw/main/assets/menugeral.pdf"><strong>Download Menu</strong></a>
                     <img src="assets/down.svg" alt="">
                 </Button> <br>                 
            </div>
