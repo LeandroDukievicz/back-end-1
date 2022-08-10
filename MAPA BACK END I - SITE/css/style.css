@@ -205,9 +205,32 @@ nav{
     width: 100%;
     height: auto;
     padding:1.2rem;
-
 }
 
+#btn-cardapio{
+    width: 65%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    padding: 10px;
+    border: 2px outset #f4511e;
+    background-color: #F4511E;
+    border-radius: 15px;   
+}
+
+#btn-c{
+    font-size: 1.0rem;
+    text-decoration: none;
+    color:#000;
+}
+#btn-c:hover{
+    transition: 1s;
+    letter-spacing:1px;
+    color: #fff;
+}
 
 
 
