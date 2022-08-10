@@ -68,7 +68,7 @@
 
 
 
-- [x] - [**Criação do Logo** - _Zarla_](https://www.zarla.com/logo-maker/99qxyvfc8h88f8xj9v4v)
+- [x] - [**Criação do Logo** - _Canva on line_](https://www.canva.com/)
 - [X] - [**Fonte** de Imagens _I_ - _Freepik_](https://br.freepik.com/)
 - [x] - [**Fonte** de Imagens _II_ - _Pinterest_](https://br.pinterest.com/)
 - [X] - [**Edição** e tratamento das Imagens - _Canva on line_](https://www.canva.com/)
