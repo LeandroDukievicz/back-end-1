@@ -168,7 +168,7 @@ nav{
 #info1
         {
     width: 95%;
-    height: auto;
+    height: 100%;
     position: relative;
     background: #FFC107;
     display: flex;
@@ -184,7 +184,7 @@ nav{
 
 #info2{
     width: 95%;
-    height: auto;
+    height: 100%;
     padding :10px;
     position: relative;
     background:#FF6F00 ;
@@ -199,7 +199,7 @@ nav{
 
 #info3{
     width: 95%;
-    height: auto;
+    height: 100%;
     padding :10px;
     position: relative;
     background: #FF3D00;
@@ -275,13 +275,90 @@ nav{
 
 
 
+footer{
+    display: flex;
+    text-align: center;
+    color:#eb0909;
+  
+    background: linear-gradient(to right,#e5e5e5,#d6d6d6); 
+    flex-direction: row;
+    justify-content: center;
+    animation: foot 6s alternate infinite;
+}
+@keyframes foot{
+
+        0%{
+            color: #000;
+            background: #fff;
+        }
+    
+        100%{
+            color: #fff;
+            background: #000
+        }
+    }
 
 
+#whatsapp{
+    width: 100%;
+    height: auto;
+    
+    
+    
+
+}
+
+#contact{
+    width: 100%;
+    height: auto;
+    
+    display: flex;
+    justify-content: end;
+    padding: 5px;
+    
+ 
+}
+
+#contact-zap{
+    width:25%;
+    height: auto;
+  
+    
 
 
+  
+  
+   
+   
+}
+
+#zap{
+    width: 30%;
+    height: auto;
+    padding: 2px;
+   
+    animation: contactme 2s infinite alternate;
+}
 
 
+@keyframes contactme{
+    from{
+       opacity: 0;
+       border-radius: 50%;  
+    } 
+    to{
+        
+        border-radius: 50%;
+        box-shadow: 0 0 0 1px #79ff6d,
+                    0 0 0 2px #79ff6d,
+                    0 0 0 4px #79ff6d,    
+                    0 0 0 6px #79ff6d,
+                    0 0 0 8px #79ff6d,
+                    0 0 0 10px #79ff6d;
+                    
+    }
 
+}
 
 
 

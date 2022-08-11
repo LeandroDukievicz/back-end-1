@@ -7,9 +7,11 @@
                 
                 <p><strong><i>Almoços</i></strong></p><br><br>
                 <p class="p-info">A melhor refeição do seu dia é aqui na Marmitas da Dirce. 
-                   Atualizamos o cardápio, Confira e peça Já a sua Marmita !</p><br>
-                   <p class="p-info"><strong><i>Segunda à Sexta: 11:00 às 14:30</i></strong></p>
-                   <p class="p-info"><strong><i>Sáb,Dom e feriados 11:00 às 15:30</i></strong></p><br>
+                   Atualizamos o nosso cardápio, Confira e peça Já a sua Marmita !</p><br>
+                   <p class="p-info"><strong><i>Segunda à Sexta: 11:00 às 14:30 <br><br>
+                                                Sáb,Dom e feriados 11:00 às 15:30
+                    </i></strong></p><br>
+                   
                    
            </div>
 
@@ -24,7 +26,7 @@
                 <p class="p-info">Agora temos além da tradicional comida caseira da dona Dirce, 
                                   marmitas fit saudáveis e um cardápio especial para os fins de semana,
                                   clique no <strong>botão</strong> 
-                                  e faça o download do Menu ou peça agora pelo Site!</p><br><br>
+                                  e faça o download do Menu ou peça agora pelo Site!</p><br>
                
                 <Button id="btn-cardapio" class="click">
                     <a id="btn-c" href="https://github.com/LeandroDukievicz/back-end-1/raw/main/assets/menugeral.pdf"><strong>Download Menu</strong></a>
