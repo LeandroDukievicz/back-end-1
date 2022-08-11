@@ -1,17 +1,13 @@
 h2{
-
     margin-top:150px;
     margin-bottom: 30px;
-    color:#D50000;
     text-align: center;
 }
 
 h5{
     margin-top:150px;
     margin-bottom: 10px;
-    color:#D50000;
     text-align: center;
-
 }
 
 .dicas{
@@ -19,14 +15,12 @@ h5{
     height: auto;
     margin-top: 20px;
     margin-bottom: 20px;
-    /* background-color: #D50000; */
     display: flex;
     flex-direction: row;
     justify-content: center;
 }
 
 #img-head{
-    
     display: flex;
     justify-content: center;
     flex-direction: row;
@@ -39,8 +33,8 @@ h5{
     margin:5px;
     border-radius: 15px;
     box-shadow: 5px 5px 5px rgba(83, 83, 83, 0.5);
-   
 }
+
 .img-dicas:hover{
     color: aliceblue;
     letter-spacing: 1px;
@@ -49,26 +43,19 @@ h5{
 }
 
 .btn-dicas{
-
     border: 2px outset #FF7043;
     cursor: pointer;
     margin-bottom: 100px;
-    }
+}
 
-
-form {
-
+form{
     width: 100%;
     height: auto;
     display: flex;
     justify-content: end;
     padding: 50px;
-    /* margin-top: 100px; */
-   
     background: #FF7043;
     box-shadow: 5px 5px 5px rgba(83, 83, 83, 0.5);
-
-
 }
 
 input{
@@ -86,7 +73,6 @@ input{
     border-radius: 15px;
     border: 2px outset #FF7043;
     cursor: pointer;
-
 }
 
 #btn-form:hover{
@@ -100,8 +86,7 @@ input{
     margin: 20px;
     display: flex;
     justify-content: space-around;
-    flex-direction: row;
-    
+    flex-direction: row; 
 }
 
 iframe{

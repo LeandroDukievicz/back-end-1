@@ -19,7 +19,7 @@
 ?>
 
 <Section >
-    <h2>Confira aqui algumas Receitas que Dona Dirce Indica</h2>    
+    <h2 style="color: rgb(255, 146, 22)">Confira aqui algumas Receitas que Dona Dirce Indica</h2>    
     <div class="dicas">
         <div>
             <figure id="img-head">

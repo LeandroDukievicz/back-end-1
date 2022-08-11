@@ -23,7 +23,9 @@
                         &nbsp;&nbsp;&nbsp;&nbsp;
 
                         <a href="https://www.facebook.com/" target="_blank">
-                            <img id="facebook" src="assets/facebook.ico" alt="">
+                            <img id="facebook" src="assets/facebook.ico" alt="Logotipo da rede social
+                            facebook, que consiste apenas em um F dentro de um quadrado, ao clicar neste link 
+                            é redirecionado ao site do facebook">
                         </a>  
                     </ul>
                 </nav>

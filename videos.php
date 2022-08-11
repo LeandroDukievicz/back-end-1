@@ -19,7 +19,7 @@
 ?>
 
 <Section >
-    <h2>Confira aqui as novidades no canal da Dirce</h2>    
+    <h2 style="color: rgb(255, 146, 22)">Confira aqui as novidades no canal da Dirce</h2>    
     <div class="dicas">
         <div>
             <figure class="mp4">
@@ -54,7 +54,7 @@
                     clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                 </iframe>  
             </figure>
-            <h2>Em Breve Teremos mais novidades por aqui!</h2>   
+            <h2 style="color: rgb(255, 146, 22)">Em Breve Teremos mais novidades por aqui!</h2>   
         </div>
     </div>
 </Section>
@@ -63,7 +63,7 @@
         include( 'contato.php');
     ?>
 
-<h5> Esta Seção do Site ainda está Recebendo atualições ! Assine Nossa Newsletter para ficar sempre atualizado! <br>
+<h5 > Esta Seção do Site ainda está Recebendo atualições ! Assine Nossa Newsletter para ficar sempre atualizado! <br>
             Fonte de Receitas desta Página 
             <a href="https://www.tudogostoso.com.br/">Tudo Gostoso</a>
         </h5>
