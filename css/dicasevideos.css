@@ -94,3 +94,23 @@ input{
     color:aliceblue;
     letter-spacing: 1px;
 }
+
+.mp4{
+    padding:20px;
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    
+}
+
+iframe{
+    border-radius: 15px;
+    box-shadow: 3px 3px 3px rgba(83, 83, 83, 0.5);
+}
+
+iframe:hover{
+    transition: 1.5s;
+    width: 50%;
+    height: auto;
+}
