@@ -20,20 +20,12 @@
         include ('galery.php');
         include ( 'info.php');
     ?>
-<!-- 
+    <!-- 
     colocar o laço de repeticao dos menus 
     em cada tela que abrir colocar o video do menu do youtube  -->
 
-    <section id="whatsapp">
-        <div id="contact">
-            <figure id="contact-zap">
-                <a href="https://wa.me/5544991293234" target="_blank">
-                <img id="zap"src="assets/whatsapp.svg" alt="">
-                </a>
-            </figure>
-        </div>
-    </section>
 
+ 
 
 
 <main>
@@ -49,8 +41,8 @@
 
 
 <?php
+    include('contato.php');
     include('rodape.php');
-    // precisa colocar a minha assinatura aqui 
 ?>
 
 

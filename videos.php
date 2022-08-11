@@ -25,6 +25,9 @@
 
 
 
+<?php
+        include('contato.php');
+    ?>
 
 
 
