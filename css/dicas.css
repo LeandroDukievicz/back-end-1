@@ -1,11 +1,20 @@
 h2{
 
-    margin:20px;
+    margin-top:150px;
+    margin-bottom: 30px;
     color:#D50000;
     text-align: center;
 }
 
-#dicas{
+h5{
+    margin-top:150px;
+    margin-bottom: 10px;
+    color:#D50000;
+    text-align: center;
+
+}
+
+.dicas{
     width: 100%;
     height: auto;
     margin-top: 20px;
@@ -36,13 +45,52 @@ h2{
     color: aliceblue;
     letter-spacing: 1px;
     transition: 1s;
-    background: #ff1f1f;
+    background: #FF7043;
 }
 
 .btn-dicas{
-    border: 2px outset #ff1f1f;
+
+    border: 2px outset #FF7043;
     cursor: pointer;
+    margin-bottom: 100px;
     }
 
 
+form {
 
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: end;
+    padding: 50px;
+    /* margin-top: 100px; */
+   
+    background: #FF7043;
+    box-shadow: 5px 5px 5px rgba(83, 83, 83, 0.5);
+
+
+}
+
+input{
+    width: 40%;
+    height: auto;
+    padding: 10px;
+    border-radius: 15px;
+    border: 2px outset #FF7043;
+}
+
+#btn-form{
+    width: 25%;
+    background-color: #D84315;
+    height: auto;
+    border-radius: 15px;
+    border: 2px outset #FF7043;
+    cursor: pointer;
+
+}
+
+#btn-form:hover{
+    transition: 1s;
+    color:aliceblue;
+    letter-spacing: 1px;
+}
