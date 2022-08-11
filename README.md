@@ -51,19 +51,13 @@
  
 ### Sobre o Projeto:   
      
-##### Projeto desenvolvido para simular o cotidiano da vida profissional de um Dev, criado um portifólio simples para ajudar uma senhora a divulgar seu novo trabalho, assim ela consegue ter um vínculo mais próximo e expandir seu empreendimento para a internet e redes sociais. </br></br></br> Usado neste projeto, PHP HTML e CSS, o PHP para deixar o site dinâmico e podendo reaproveitar muitos trechos de código, ainda no php manuseando e usando array muldimensional para as fotos e descrição dos produtos. A intenção é deixar este projeto o mais próximo da realidade e tentar utilizar as boas práticas na programação. Porém aqui ainda não haverá interação com banco de dados. <br><br>
+##### Projeto desenvolvido para simular o cotidiano da vida profissional de um Dev, realizando um portifólio simples para ajudar uma senhora a divulgar seu novo trabalho, assim ela consegue ter um vínculo mais próximo e expandir seu empreendimento para a internet e redes sociais. </br></br></br> Usado neste projeto, PHP HTML e CSS, o PHP para deixar o site dinâmico e podendo reaproveitar muitos trechos de código, ainda no php manuseando e usando array muldimensional para as fotos e descrição dos produtos. A intenção é deixar este projeto o mais próximo da realidade e tentar utilizar as boas práticas na programação. Porém aqui ainda não haverá interação com banco de dados. <br><br>
 
 
 
 
 
-###### Fontes e Informações adicionais sobre o projeto:
-
-###### Para este Projeto, pensando na questão de usabilidade e até para facilitar para a dona Dirce, coloquei um link direto para o whatsapp dela, assim ela consegue anotar os pedidos de uma maneira muito mais fácil e dependerá somente de um celular, agilizando o preparo para a entrega, talvez fazer isso com formulários e mandar pra ela não seja tão eficaz pra essa situação. Então dentro do site, a pessoa escolhe pelo cardápio disponível e entra em contato direto com ela pra fazer o pedido.Fiz um estudo também na questão de qual paleta de cores usar, o que fica melhor e que tipo de paleta de cores combina mais com a proposta do site. <br><br><br> Fontes e ferramentas externas usadas no projeto.
-
-
-
-
+###### Fontes / Ferramentas externas e Informações adicionais sobre o projeto:
 
 - [x] - [**Criação do Logo** - _Canva on line_](https://www.canva.com/)
 - [X] - [**Fonte** de Imagens _I_ - _Freepik_](https://br.freepik.com/)
@@ -71,7 +65,15 @@
 - [X] - [**Edição** e tratamento das Imagens - _Canva on line_](https://www.canva.com/)
 - [x] - [**Icones e Fontes - I -** _Icons Cout_](https://iconscout.com/)&ensp;&ensp;&ensp;[II - _Flaticon_](https://www.flaticon.com/br/)&ensp;&ensp;&ensp;[III - _Google Fonts_](https://fonts.google.com/)
 - [x] - [**Indicação de Receitas** - _TudoGostoso_](https://www.tudogostoso.com.br/)
-- [x] - [**Indicação de Vídeos Culinários** - _Paola Carosella_](https://www.youtube.com/user/pcarosella) 
+ 
+
+
+### **INFO** <br>
+###### Para este Projeto, pensando na questão de usabilidade e até para facilitar para a dona Dirce, coloquei um link direto para o whatsapp dela, assim ela consegue anotar os pedidos de uma maneira muito mais fácil e dependerá somente de um celular, agilizando o preparo para a entrega, talvez fazer isso com formulários e mandar pra ela não seja tão eficaz pra essa situação. Então dentro do site, a pessoa escolhe pelo cardápio disponível e entra em contato direto com ela pra fazer o pedido.Fiz um estudo também na questão de qual paleta de cores usar, o que fica melhor e que tipo de paleta de cores combina mais com a proposta do site. <br><br><br> 
+
+
+
+
 
 
 
