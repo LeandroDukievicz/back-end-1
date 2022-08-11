@@ -1,3 +1,7 @@
+<?php
+	 include("cardapio.php");
+?>
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -14,19 +18,15 @@
     <title>HOME - Marmitas da Dirce</title>
 </head>
 
+
+
+
 <body>
     <?php
         include ('cabecalho.php');
         include ('galery.php');
         include ( 'info.php');
     ?>
-    <!-- 
-    colocar o laço de repeticao dos menus 
-    em cada tela que abrir colocar o video do menu do youtube  -->
-
-
- 
-
 
 <main>
 

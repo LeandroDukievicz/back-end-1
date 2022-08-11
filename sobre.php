@@ -17,28 +17,25 @@
     <?php
         include ('cabecalho.php');
     ?>
-
-
 <main>
-    
     <div>   
+        <h2 style="color: rgb(255, 146, 22)">Conheça a Dona Dirce</h2>
         <div class= "sobre">
             <div >
                 <figure>
                     <img class="img-dirce" src="img/logo-redes-sociais/dirce.jpg" alt="">
-            
                 </figure>
             </div>
             
-            <div>
-                <h2 style="color: rgb(255, 146, 22)">Conheça a Dona Dirce</h2><br>
+            <div >
+                
                 <p> 
                     De acordo com a situação econômica atual vivenciada pelo ser humano durante a pandemia,
                     muitos profissionais tiveram que se reinventar para ter o que colocar nos pratos de sua casa. <br><br>
                 
                     A Pandemia da Covid-19, ceifou além de vidas, muitos sonhos e empregos,  Dona Dirce,
                     assim como milhões de brasileiros, também ficou desemprega.
-                    E assim começa a Jornada dessa nova empreitada da Dona Dirce. <br><br>
+                    E assim começa a Jornada dessa nova empreitada da Dona Dirce. 
                     
                     Dona Dirce, mulher guerreira, viúva à 15 anos, diarista à 35 anos,
                     nunca deixou faltar o leite e o pão para suas crianças, 

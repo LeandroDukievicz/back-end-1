@@ -14,7 +14,9 @@
     <title>Dicas de Receitas</title>
 </head>
 
+
 <?php
+
     include ('cabecalho.php');
 ?>
 
