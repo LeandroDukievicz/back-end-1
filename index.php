@@ -1,5 +1,5 @@
 <?php
-	 include("cardapio.php");
+	 require("cardapio.php");
 ?>
 
 <!DOCTYPE html>
@@ -29,6 +29,10 @@
             include('main-menu.php');
         ?>
 </main>
+
+<?php
+    include('topo.php');
+?>
 
 </body>
 

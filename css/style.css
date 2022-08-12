@@ -256,7 +256,7 @@ nav{
     height: auto;
 }
 
-#contact{
+#contact {
     width: 100%;
     height: auto;
     display: flex;
@@ -317,6 +317,50 @@ nav{
     background: #fcc065;
 }
 
+
+
+#top{
+    width: 100%;
+    height: auto;
+    animation: home 2s infinite alternate;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+@keyframes home{
+    from{
+        transform: translateY(0);
+    }
+
+    to{
+        
+        transform: translateY(10px);
+    }
+}
+
+
+
+#back-top{
+    width: 100%;
+    height: auto;
+    
+    padding: 5px;
+}
+
+#top-up{
+    width:100%;
+    height: auto;
+   
+}
+
+#top{
+    width: 30%;
+    height: auto;
+    padding: 12px;
+    margin:5px;
+    
+}
 
 
 

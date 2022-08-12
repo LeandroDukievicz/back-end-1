@@ -1,5 +1,5 @@
 <?php
-	 include("cardapio.php");
+	 require("cardapio.php");
 ?>
 
 <!DOCTYPE html>
