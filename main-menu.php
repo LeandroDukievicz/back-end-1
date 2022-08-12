@@ -40,7 +40,7 @@
         
             <?php
                 if(is_array($cardapio1) && !empty($cardapio1)){
-                    foreach($cardapio as $key =>$value){
+                    foreach($cardapio1 as $key =>$value){
             ?>
 
     <div class="menu-flex">
@@ -72,7 +72,7 @@
         
             <?php
                 if(is_array($cardapio2) && !empty($cardapio2)){
-                    foreach($cardapio as $key =>$value){
+                    foreach($cardapio2 as $key =>$value){
             ?>
 
     <div class="menu-flex">
