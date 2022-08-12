@@ -20,6 +20,7 @@
 <?php
 	 include("cabecalho.php");
 ?>
+  
 <main>
     <section>
         <header>  
@@ -27,10 +28,9 @@
         </header>
         <?php
            $id = $_GET['id'];
-            foreach($cardapio1 as $key => $value){
+            foreach($cardapio2 as $key => $value){
                 if($value['id'] ==$id){
             ?>
-
             <article>
                 <a href="#"><img class="img-menu click" src=<?=$value['foto'];?>></a>
                 <h3 style="color: rgb(255, 146, 22)"><?=$value['titulo'];?></h3> <br>
