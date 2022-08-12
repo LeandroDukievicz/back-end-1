@@ -19,7 +19,8 @@
         </div>
 
         <div>
-            <p><?=substr($value['descricao'],0,250);?>.</p>       
+            <p><?=substr($value['descricao'],0,250);?>.</p> 
+                  
         </div>
         </article>
     </div>
