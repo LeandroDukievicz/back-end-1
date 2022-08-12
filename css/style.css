@@ -297,7 +297,7 @@ nav{
 
 
 .menu-flex{
-    width: 100%;
+    width: 95%;
     height: auto;
    
     display: flex;
@@ -310,10 +310,10 @@ nav{
 
 
 .img-menu{
-    width: 60%;
+    width: 80%;
     height: auto;
     margin: 5px;
-    padding:10px;
+    padding:5px;
     height: auto;
     border-radius: 15px;
     box-shadow: 5px 5px 5px rgba(83, 83, 83, 0.5);
@@ -325,16 +325,6 @@ nav{
 
 
 
-
-.menus{
-    width: 100%;
-    height: auto;
-
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-}
 
 
 

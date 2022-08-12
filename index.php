@@ -110,6 +110,7 @@
 
 <?php
     include('contato.php');
+    include('form.php');
     include('rodape.php');
 ?>
 

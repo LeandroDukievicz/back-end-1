@@ -51,6 +51,7 @@
 </main>  
 
 <?php
-    
-     include("rodape.php");
+    include('contato.php');
+    include('form.php');
+    include('rodape.php');
 ?>
