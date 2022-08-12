@@ -9,6 +9,13 @@ body{
     background:linear-gradient(to right, #ffffff, #f0ede5,#ffffff);
 }
 
+main{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
 
 body::-webkit-scrollbar{
     width: 15px;
@@ -294,18 +301,18 @@ nav{
     height: auto;
    
     display: flex;
-    padding: 10px;
-    justify-content: center;
-    
+    padding: 20px;
+    /* justify-content: space-between; */
+    margin:15px;
     align-content: center;
     align-items: center;
 }
 
 
 .img-menu{
-    width: 50%;
+    width: 60%;
     height: auto;
-   
+    margin: 5px;
     padding:10px;
     height: auto;
     border-radius: 15px;
@@ -316,13 +323,15 @@ nav{
     background: #fcc065;
 }
 
-.h-food{
-    padding:50px;
-}
+
 
 
 .menus{
+    width: 100%;
+    height: auto;
+
     display: flex;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
 }

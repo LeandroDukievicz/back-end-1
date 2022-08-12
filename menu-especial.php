@@ -20,31 +20,37 @@
 <?php
 	 include("cabecalho.php");
 ?>
+
   
 <main>
-    <section>
-        <header>  
-            <h2>Faça o Pedido da Sua Marmita <a href="https://api.whatsapp.com/send/?phone=5544991293234&text&type=phone_number&app_absent=0" target="_blank">Aqui !</a></h2>
-        </header>
+    <h2>Faça o Pedido da Sua Marmita <a href="https://api.whatsapp.com/send/?phone=5544991293234&text&type=phone_number&app_absent=0" target="_blank">Aqui !</a></h2> <br>
+    
+    <section > 
+        <div class="menu-flex">
         <?php
            $id = $_GET['id'];
             foreach($cardapio2 as $key => $value){
                 if($value['id'] ==$id){
             ?>
-            <article>
+           <div >
+            <article  >
                 <a href="#"><img class="img-menu click" src=<?=$value['foto'];?>></a>
                 <h3 style="color: rgb(255, 146, 22)"><?=$value['titulo'];?></h3> <br>
                 <p><i><strong><?=$value['descricao'];?></p></strong></i><br>
                 <p style="color: rgb(255, 146, 22)"><strong><?=$value['preco'];?></p></strong>
+                                
             </article>
+            </div>
             <?php
                 }
             }
             ?>
+            </div>
     </section>
+    
 </main>  
-		
+
 <?php
-     include("contato.php");
+    
      include("rodape.php");
 ?>

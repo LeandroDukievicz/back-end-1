@@ -11,7 +11,7 @@
                         <a class="a-hover" href="sobre.php">Conheça a Dona Dirce&nbsp;</a>
                         <a class="a-hover" href="dicas.php">Dicas de Receitas&nbsp;</a> 
                         <a class="a-hover" href="videos.php">Vídeos de Receitas&nbsp;</a>
-                        <a class="a-hover" href="#zap">Contato&nbsp;</a>  
+                        <a class="a-hover" href="https://wa.me/5544991293234" target="_blank"">Contato&nbsp;</a>  
                         
                         &nbsp;&nbsp;&nbsp;&nbsp;
 
