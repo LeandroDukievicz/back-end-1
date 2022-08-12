@@ -4,6 +4,7 @@
 
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="Proof of back end unit one in php">
@@ -21,34 +22,35 @@
 	 include("cabecalho.php");
 ?>
 
-  
 <main>
-    <h2>Faça o Pedido da Sua Marmita <a style="color: rgb(255, 146, 22)"href="https://api.whatsapp.com/send/?phone=5544991293234&text&type=phone_number&app_absent=0" target="_blank">Aqui !</a></h2> <br>
-  
-    <section > 
+    <h2>Faça o Pedido da Sua Marmita <a style="color: rgb(255, 146, 22)"
+            href="https://api.whatsapp.com/send/?phone=5544991293234&text&type=phone_number&app_absent=0"
+            target="_blank">Aqui !</a></h2> <br>
+
+    <section>
         <div class="menu-flex">
-        <?php
+            <?php
            $id = $_GET['id'];
             foreach($cardapio as $key => $value){
                 if($value['id'] ==$id){
             ?>
-           <div >
-            <article  >
-                <a href="#"><img class="img-menu click" src=<?=$value['foto'];?>></a>
-                <h3 style="color: rgb(255, 146, 22)"><?=$value['titulo'];?></h3> <br>
-                <p><i><strong><?=$value['descricao'];?></p></strong></i><br>
-                <p style="color: rgb(255, 146, 22)"><strong><?=$value['preco'];?></p></strong>
-                                
-            </article>
+            <div>
+                <article>
+                    <a href="#"><img class="img-menu click" src=<?=$value['foto'];?>></a>
+                    <h3 style="color: rgb(255, 146, 22)"><?=$value['titulo'];?></h3> <br>
+                    <p><i><strong><?=$value['descricao'];?></p></strong></i><br>
+                    <p style="color: rgb(255, 146, 22)"><strong><?=$value['preco'];?></p></strong>
+
+                </article>
             </div>
             <?php
                 }
             }
             ?>
-            </div>
+        </div>
     </section>
-    
-</main>  
+
+</main>
 
 <?php
     include('contato.php');
