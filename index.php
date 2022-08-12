@@ -29,6 +29,27 @@
     ?>
 
 <main>
+    <section>
+        <div>
+            <header>
+                <h2  style="color: rgb(255, 146, 22)">Confira nossas Opções de marmitas:</h2>
+            </header>
+        </div>
+       
+        <?php
+            foreach($cardapio_caseiro as $key =>$value){
+        ?>
+        <article>
+            <a href="menu.php?id=<?$value['id'];?>"><img src=<?=$value['foto'];?> alt=""></a>
+            <h4><?=$value['titulo'];?></h4>
+            <p><?=substr($value['descricao'],0,250);?>.</p>       
+        </article>
+
+        <?php
+            }
+        ?>
+
+    </section>
 
 
 
