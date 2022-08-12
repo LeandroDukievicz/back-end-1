@@ -23,7 +23,7 @@
 
   
 <main>
-    <h2>Faça o Pedido da Sua Marmita <a href="https://api.whatsapp.com/send/?phone=5544991293234&text&type=phone_number&app_absent=0" target="_blank">Aqui !</a></h2> <br>
+    <h2>Faça o Pedido da Sua Marmita <a style="color: rgb(255, 146, 22)"href="https://api.whatsapp.com/send/?phone=5544991293234&text&type=phone_number&app_absent=0" target="_blank">Aqui !</a></h2> <br>
     
     <section > 
         <div class="menu-flex">

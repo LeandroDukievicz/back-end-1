@@ -1,4 +1,4 @@
-<form action="" method="post"> 
+        <form action="" method="post"> 
             <p style="color: #FFF"><b>Está chegando muitas novidades no cardápio da Dona Dirce,
                                       Informe o seu melhor E-mail que te avisaremos !</b>
             </p>&nbsp;&nbsp;

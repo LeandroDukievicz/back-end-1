@@ -36,7 +36,6 @@ a{  width: 100%;
 .a-hover{
     width: 100%;
     height: auto;
-   
     color:#000;
     padding: 10px;
     margin: 10px;
@@ -294,20 +293,15 @@ nav{
     }
 }
 
-
-
 .menu-flex{
     width: 95%;
-    height: auto;
-   
+    height: auto; 
     display: flex;
     padding: 20px;
-    /* justify-content: space-between; */
     margin:15px;
     align-content: center;
     align-items: center;
 }
-
 
 .img-menu{
     width: 80%;
