@@ -14,7 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="assets/cutlery.PNG" type="image/x-icon">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/button.css">
+  
     <title>HOME - Marmitas da Dirce</title>
 </head>
 
@@ -37,10 +37,10 @@
         </div>
        
         <?php
-            foreach($cardapio_caseiro as $key =>$value){
+            foreach($cardapio as $key =>$value){
         ?>
         <article>
-            <a href="menu.php?id=<?$value['id'];?>"><img src=<?=$value['foto'];?> alt=""></a>
+            <a href="menu.php?id=<?=$value['id'];?>"><img src=<?=$value['foto'];?>></a>
             <h4><?=$value['titulo'];?></h4>
             <p><?=substr($value['descricao'],0,250);?>.</p>       
         </article>
@@ -48,9 +48,10 @@
         <?php
             }
         ?>
-
     </section>
 
+
+   
 
 
 
