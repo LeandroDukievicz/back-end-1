@@ -79,7 +79,13 @@
 ###### Todos os links estão funcionais! 
 
 ## **Agradecimentos** <br>
-###### Agradecer aos Professores [Rafael](https://github.com/rafaelflorindo) e [Leonardo](https://github.com/leonardo-buta) e toda a equipe, Embora eu esteja satisfeito de cumprir com o objetivo do projeto, sei também que ainda há um grande espaço pra melhora em diversos fatores do meu aprendizado. Mas permanecerei firme nos estudos pra que o progresso seja constante. Por hora fica aqui o meu "Obrigado!".
+###### Agradecer aos Professores [Rafael](https://github.com/rafaelflorindo) e [Leonardo](https://github.com/leonardo-buta) e toda a equipe, Embora eu esteja satisfeito de cumprir com o objetivo do projeto, sei também que ainda há um grande espaço pra melhora em diversos fatores do meu aprendizado. Mas permanecerei firme nos estudos pra que o progresso seja constante. Por hora fica aqui o meu "Obrigado!". <br><br><br>
+
+  <div align="center">
+<a  href="https://github.com/LeandroDukievicz" target="_blank"><img  height="200em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/home.gif" target="_blank">
+</div>     
+
+
 
 
 
